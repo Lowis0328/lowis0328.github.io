@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+}
+
+div{
+    background-color: black;
+    width: 400px;
+    min-height: 150px;
+}
+
+.Bild1{
+    border-radius: 20%;
+    height: 130px;
+    width: 140px;
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
+.linjer {
+    height: 55px;
+    width: auto;
+    background-color: rgb(15, 5, 160);
+}
+
+
+.VAD{
+    font-size: 16px;
+    color: rgb(170, 153, 153);
+    margin-top: 30px;
+    text-align: center;
+}
+
+.UTB{
+    font-size: 16px;
+    color: rgb(170, 153, 153);
+    margin-top: 10px;
+    text-align: center;
+}
+
+.ÖVR{
+    font-size: 16px;
+    color: rgb(170, 153, 153);
+    text-align: center;
+    margin-top: 20px;
+} 
+
+.OM_MIG{
+    margin-left: 700px;
+    margin-top: 50px;
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+}
+
+.MAIL{
+    color: rgb(170, 153, 153);
+    text-align: center;
+    margin-top: 23px;
+}
+
+.ADD{
+    color: rgb(170, 153, 153);
+    text-align: center;
+    margin-top: 23px;
+}
+
+.TEL{
+    color: rgb(170, 153, 153);
+    text-align: center;
+    margin-top: 23px;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(16, 16, 180);
+}
+
+.namn{
+    color: rgb(170, 153, 153);
+
+    margin-left: 90px;
+    margin-top: 150px
+}
+
+.Box{
+    font-size: 25px;
+    text-align: Center;
+    margin-left: 500px;
+    margin-top: 100px ;
+    border: 4px solid black;
+    width: 600px;
+    height: 300px;
+}
+
+p{
+    text-align: center;
+    margin-left: 900px;
+}
+
+
+
+
+
